@@ -1,0 +1,24 @@
+# Payroll System in Java
+
+This is a simple **Payroll Management System** built using **Java OOP concepts**.  
+The project demonstrates the use of **Abstraction, Inheritance, Polymorphism, and Collections (ArrayList)**.
+
+---
+
+##  Features
+- Add new employees (Full-time or Part-time)
+- Remove employees by ID
+- Display employee details with calculated salary
+- Demonstrates **abstract class and method overriding**
+
+---
+
+##  Technologies Used
+- Java
+- OOPs Concepts (Abstraction, Inheritance, Polymorphism)
+- Collections Framework (ArrayList)
+
+---  
+
+
+
